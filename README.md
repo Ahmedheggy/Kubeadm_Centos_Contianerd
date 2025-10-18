@@ -2,7 +2,7 @@
 
 ## 5 Virutal Machines with resources minimum (2 cpus core, 2gb ram, 20gb disk space)
 ## Optional creating 3 VMs (1 master node - 2 workers)
-## set hostname for each VM to easy identify each vm For Example: master 1 >>>>> hostnamectl set-hostname master1
+## set hostname for each VM to easy identify each vm For Example: master 1 >> hostnamectl set-hostname master1
 # Kubernetes Cluster Setup Guide (CentOS Stream 9)
 
 A simple step-by-step guide to deploy a **Highly Available Kubernetes Cluster** using **kubeadm**, **containerd**, and **Flannel CNI**.
