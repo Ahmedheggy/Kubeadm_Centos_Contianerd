@@ -231,4 +231,4 @@ kubectl drain <node> --ignore-daemonsets --delete-emptydir-data
 - [x] CoreDNS pods Running
 - [x] Network connectivity working
 
-Time to deploy your applications!:D
+Time to deploy your applications :D

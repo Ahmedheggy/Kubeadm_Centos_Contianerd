@@ -7,4 +7,4 @@ virsh list --all --name | xargs -I {} virsh start {}
 virsh list --all --name | xargs -I {} virsh shutdown {}
 ***********************************************************************************************
 ***********************************************************************************************
-###root_password :ahmad123 ##root password created for all VMs
+
